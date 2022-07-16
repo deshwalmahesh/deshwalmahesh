@@ -1,16 +1,33 @@
-### Hi there 👋
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<!--
-**deshwalmahesh/deshwalmahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=deshwalmahesh&style=plastic&color=ff69b4)
+##
+This is the place where I try to either build something unique for the community or contribute to someone else's work. "It ain't much but it's honest work" :rofl:
 
-Here are some ideas to get you started:
+- 🔭 &nbsp;I’m currently working on: Definitely on some AI project :wink:
+- 🌱 &nbsp;I’m currently improving my skills in: MLOPS, 1-2-3-Deploy
+- 💬 &nbsp;Ask me about anything related to: Python/AI/ML OR Rap/Cinematography/WW2/Football/Basketball
+- 👨‍💻 &nbsp;Read more about my [Kaggle Notebooks for newbies](https://www.kaggle.com/deshwalmahesh/code?userId=3734583&sortBy=voteCount&tab=profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📕 &nbsp;**Top-3 Open Source achievements so far:**
+<!-- BLOG-POST-LIST:START -->
+- [India's only Open Source tool for finance including NSE Live Data, trading, investing, trading algo, strategies and ...... ](https://github.com/deshwalmahesh/NSE-Stock-Scanner)
+- [Contribution to Google research image enhancement SOTA paper MAXIM](https://github.com/google-research/maxim/pull/13)
+- [Succcessful merge to Huawei Noah's Ark Lab, previous SOTA of the above use case: CURL](https://github.com/sjmoran/CURL/pull/30)
+<!-- BLOG-POST-LIST:END -->
+
+
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=deshwalmahesh&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deshwalmahesh&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/deshwalmahesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11725056/deshwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://www.instagram.com/deshwal.mahesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
