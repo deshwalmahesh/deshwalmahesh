@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=deshwalmahesh&style=plastic&color=ff69b4)
 ##
-This is the place where I try to either build something unique for the community or contribute to someone else's work. "It ain't much but it's honest work" :rofl:
+My code factory where I try to either build something unique for the community or contribute to someone else's work. "It ain't much but it's honest work" :rofl:
 
 - 🔭 &nbsp;I’m working on: Definitely on some AI project :wink:
 - 🌱 &nbsp;Currently improving my skills in: MLOPS, 1-2-3-Deploy
