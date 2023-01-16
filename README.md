@@ -13,9 +13,10 @@ My code factory where I try to either build something unique for the community o
 - 👨‍💻 &nbsp;Read more about my [Kaggle Notebooks for newbies](https://www.kaggle.com/deshwalmahesh/code?userId=3734583&sortBy=voteCount&tab=profile)
 
 
-📕 &nbsp;**Top-3 Open Source achievements so far:**
+📕 &nbsp;**Top-4 Open Source achievements so far:**
 <!-- BLOG-POST-LIST:START -->
 - [India's only Open Source tool for finance including NSE Live Data, trading, investing, trading algo, strategies and ...... ](https://github.com/deshwalmahesh/NSE-Stock-Scanner)
+- [Object Tracking using `Yolov7` and `DeepSort`](https://github.com/deshwalmahesh/yolov7-deepsort-tracking)
 - [Contribution to Google research image enhancement SOTA paper MAXIM](https://github.com/google-research/maxim/pull/13)
 - [Succcessful merge to Huawei Noah's Ark Lab, previous SOTA of the above use case: CURL](https://github.com/sjmoran/CURL/pull/30)
 <!-- BLOG-POST-LIST:END -->
