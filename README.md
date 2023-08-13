@@ -9,7 +9,7 @@ My code factory where I try to either build something unique for the community o
 
 - 🔭 &nbsp;I’m working on: Definitely on some AI project :wink:
 - 🌱 &nbsp;Currently improving my skills in: MLOPS, 1-2-3-Deploy
-- 💬 &nbsp;Ask me about anything related to: Python/AI/ML OR Rap/Cinematography/WW2/Football/Basketball
+- 💬 &nbsp;Ask me about anything related to: Python/AI/ML OR Rap/Cinematography/WW2/Bodybuilding/Football/Basketball
 - 👨‍💻 &nbsp;Read more about my [Kaggle Notebooks for newbies](https://www.kaggle.com/deshwalmahesh/code?userId=3734583&sortBy=voteCount&tab=profile)
 
 
